@@ -1,4 +1,5 @@
 LUDO_GAME
+
 This is 2D Ludo game for four player. Its game rules are similar with the real world game. At the end of the game a message is display about the winner. This game support gif format images.
 
 FUNTIONS
